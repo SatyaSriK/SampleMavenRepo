@@ -1,1 +1,2 @@
 this is a sample text file
+this is for a sample project of maven
